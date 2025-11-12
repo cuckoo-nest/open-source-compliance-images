@@ -1,0 +1,8 @@
+[submodule "v1"]
+	path = v1
+	url = https://github.com/cuckoo-nest/open-source-compliance-images.git
+	branch = open-source-compliance-images/nest-learning-thermostat/v1
+[submodule "v2"]
+	path = v2
+	url = https://github.com/cuckoo-nest/open-source-compliance-images.git
+	branch = open-source-compliance-images/nest-learning-thermostat/v2
